@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Currículo</title>
+  <link rel="stylesheet" href="porto folio.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <h1>Giovannie Wilio Clarens A. Dako</h1>
+      <p>DESENVOLVEDOR FRONT END|HTML|CSS| JS | APAIXONADO POR TECNOLIGIA E INOVAÇÃO</p>
+    </div>
+  </header>
+
+  <!-- Sobre -->
+  <section id="sobre" class="section">
+    <div class="container">
+      <h2>Sobre Mim</h2>
+      <p>
+        Atualmente cursando o quarto semestre de Análise e Desenvolvimento de Sistemas, com previsão de conclusão no primeiro semestre de 2025.<br>
+         Tenho paixão por resolver problemas usando tecnologia e estou sempre buscando novas formas de aplicar meus conhecimentos em projetos reais. <br>
+         Meu foco principal está no desenvolvimento de software, com interesse em áreas como desenvolvimento web, mobile e banco de dados. Busco uma<br>
+          oportunidade de estágio para aplicar minhas habilidades técnicas e aprender diretamente com profissionais da área.<br>
+
+   Ao longo do curso, venho adquirindo conhecimento em linguagens como Java, Python e SQL, além de ferramentas e frameworks como HTML, CSS, JavaScript,<br>
+    Git e React. Acredito na importância de uma abordagem colaborativa e estou entusiasmado para fazer parte de uma equipe onde possa contribuir e, <br>
+    ao mesmo tempo, expandir meus horizontes técnicos e profissionais."
+      </p>
+    </div>
+  </section>
+
+  <!-- Experiência -->
+  <section id="experiencia" class="section">
+    <div class="container">
+      <h2>Experiência</h2>
+      <ul>
+        
+        <li>
+          <h3>Projeto Acadêmico - FMU</h3>
+          <p>Período: [01/01/2024] - [31/06/2024]</p>
+          <p>Descrição: Um projeto de site para uma clínica fictícia. Na ideia, deveria ter um acesso para os usuários e outro para os administradores, <br>
+             o usuário poderia marcar sua própria consulta. Mas ainda não soube como colocar em prática perfeitamente dessa forma, de uma maneira que garanta <br>
+             a segurança dos dados digitados, então a melhor escolha foi optar por deixar um administrador cuidando do processo de gerir as informações do cliente. <br>
+             ainda que isso aconteça, algumas partes do portal do usuário foram feitas, como a alteração de senha e cadatro dele em si, ele só não pode ainda marcar sua própria <br>
+             consulta. o admin pode criar um cadastro, acessar um portal, visualizar as consultas marcadas e horários, marcar novas, alterar informações do cliente e deletar informações <br>
+             do cliente. Todos os cadastros são feitos com base no email, mas para que seja modificada alguma informação, é necessário digitar o CPF.</p> <br>
+             <br>
+             <br>
+             <p> Período: [01/07/2024] - [30/11/2024]</p>
+             <p>Descrição: 
+                Tema: Aplicativo para abertura de chamados de limpeza/Manutenção.
+                
+                A ideia principal do trabalho consiste em um aplicativo "Mobile" onde o usuário realiza abertura de chamados para serviços de manutenção <br>
+                 ou limpeza em um cenário corporativo, o projeto "Aplicativo". <br>
+                 Funcionalidade: abertura de chamados específicos por setor e categoria de serviço <br>
+                Requisitos funcionais: O aplicativo permite anexar fotos ou arquivos que possam descrever melhor a solicitação realizada. <br>
+                Requisitos não funcionais: Após concluir a solicitação o sistema emite um e-mail de confirmação do chamado criado.  <br> </p>
+
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Habilidades -->
+  <section id="habilidades" class="section">
+    <div class="container">
+      <h2>Habilidades</h2>
+      <ul class="skills">
+        <li>HTML5, CSS3, JavaScript</li>
+        <li>React.js e Node.js</li>
+        <li>Versionamento com Git/GitHub</li>
+        <li>Metodologias Ágeis (Scrum)</li>
+        <li>Conhecimento em ODS e sustentabilidade</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Contato -->
+  <section id="contato" class="section">
+    <div class="container">
+      <h2>Contatos</h2>
+      <p>Email: <a href="mailto:giovanniewilioclarens@gmail.com">www.giovanniewilioclarens@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/giovanni-wilio-clarens-ayihounkpe-dako-4b0a96251
+        " target="_blank">linkedin.com/in/giovanni-wilio-clarens-ayihounkpe-dako-4b0a96251</a></p>
+      <p>GitHub: <a href="https://github.com/wilioclarens" target="_blank">github.com/wilioclarens</a></p>
+      <p> Telefone: (11) 956606850</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy;  Dezembro de 2024 , Giovanni Clarens Wilio A. Dako /Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
